@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class testes {
 
 	public static void main(String[] args) {
-		JogarNovamente();
+		//JogarNovamente();
 
 	}
 	public static void JogarNovamente() {
