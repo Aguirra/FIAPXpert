@@ -27,7 +27,6 @@ public class TrabalhandoComString {
 			}else {
 				System.out.println("Email inválido para cadastro.\nFavor digitar um Email Válido!!!");
 			}
-			
 		
 		}while(emailDoUsuario.contains("@") == false);
 
