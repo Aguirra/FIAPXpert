@@ -19,7 +19,6 @@ public class DesafioJokenpo {
 			do {
 				do {
 					numeroGerado = gerador.nextInt(4);
-				
 				}while(numeroGerado == 0);
 
 			System.out.println("----------------------------");
@@ -160,3 +159,4 @@ public class DesafioJokenpo {
 	} 
 
 }
+
