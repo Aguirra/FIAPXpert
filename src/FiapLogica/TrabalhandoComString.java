@@ -29,7 +29,7 @@ public class TrabalhandoComString {
 			}
 		
 		}while(emailDoUsuario.contains("@") == false);
-
+		sc.close();
 	}
 	
 	

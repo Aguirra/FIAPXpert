@@ -20,7 +20,7 @@ public class LogicaCondicional {
 		}else {
 			System.out.println("Você é menor de idade!!");
 		}
-		
+		sc.close();
 	}
 
 }
