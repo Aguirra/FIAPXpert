@@ -17,6 +17,7 @@ public class DesafioJokenpo {
 		String novaPartida;
 		try {
 			do {
+				// logica para não sair o numero zero
 				do {
 					numeroGerado = gerador.nextInt(4);
 				}while(numeroGerado == 0);
